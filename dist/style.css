@@ -1,0 +1,14 @@
+h1{
+  text-align:center;
+  
+}
+a{
+  font-size:50px;
+}
+.img{
+  display:flex;
+  justify-content:center;
+}
+body{
+  background-image:url("https://hi-news.ru/wp-content/uploads/2017/11/questions-750x460.jpg");
+}
